@@ -1,0 +1,10 @@
+C:\Users\63907\source\repos\Assignment1_Furton\bin\Debug\Assignment1_Furton.exe.config
+C:\Users\63907\source\repos\Assignment1_Furton\bin\Debug\Assignment1_Furton.exe
+C:\Users\63907\source\repos\Assignment1_Furton\bin\Debug\Assignment1_Furton.pdb
+C:\Users\63907\source\repos\Assignment1_Furton\obj\Debug\Assignment1_Furton.csproj.AssemblyReference.cache
+C:\Users\63907\source\repos\Assignment1_Furton\obj\Debug\Assignment1_Furton.Form1.resources
+C:\Users\63907\source\repos\Assignment1_Furton\obj\Debug\Assignment1_Furton.Properties.Resources.resources
+C:\Users\63907\source\repos\Assignment1_Furton\obj\Debug\Assignment1_Furton.csproj.GenerateResource.cache
+C:\Users\63907\source\repos\Assignment1_Furton\obj\Debug\Assignment1_Furton.csproj.CoreCompileInputs.cache
+C:\Users\63907\source\repos\Assignment1_Furton\obj\Debug\Assignment1_Furton.exe
+C:\Users\63907\source\repos\Assignment1_Furton\obj\Debug\Assignment1_Furton.pdb
